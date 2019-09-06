@@ -1,0 +1,41 @@
+1.  Wrire a python program to print following string in a specific format
+	Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, 
+	Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are"
+ Output :
+	Twinkle, twinkle, little star,
+		How I wonder what you are! 
+			Up above the world so high,   		
+			Like a diamond in the sky. 
+		Twinkle, twinkle, little star, 
+			How I wonder what you are
+
+2. Write a python program to display the current date and time
+Sample output:
+	Current date and time:
+	2014-07-05 14:34:14
+
+3. Write a python program to use enter radius of a circle and compute area of circle
+
+4. Write a python program which accepts user's enter full name from keyboard  and reverse oder with a space between them print to desktop
+
+5. Write a python program to print the calendar of a given month and year. Select any 2 days on month and compute numbers of days between tow dates
+Note: use import 'calendar'
+
+6. Write a python program which user's enter three any numbers integer from keyboard. Calculate sum of three numbers, if the value equal are then return thrice of their sum
+
+7. Write a program to solve first order equation
+
+8. Write a program to solve second oder equation ax^2 + bx + c = 0
+
+9. Enter four members into keyboard. Find value Max, Min 
+
+10. Enter the natural number n and list it's divisors. How many the divisors are there?
+
+11. Write a program to enter a integer number N and list n frist prime number
+
+12. Print the rectangle with the * * n * m marks
+
+13. Write a program to enter into integer number n. Calculator sum of numbers in n and parse n into prime factors.
+
+
+
